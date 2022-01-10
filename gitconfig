@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = eleelenabroglia260@gmail.com
+	name = Elena Broglia
